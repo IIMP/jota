@@ -2,7 +2,7 @@ import os
 import sys
 target_path = sys.argv[1]
 #ori_path = '/root/2019Dapps/contracts/'
-ori_path = '/root/test2019/contracts/'
+ori_path = '/root/2017Dataset/contracts/'
 successAttack = 0
 type1 = []
 type2 = []

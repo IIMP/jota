@@ -1,4 +1,4 @@
 digraph {
 node [shape=rect,fontname="Courier"];
-15[label="0xbb\l--------\linvalid()\l"];
+0[label="0x0\l--------\l$m = 0x60\l$s2 = pc()\lgoto 0x935\l"];
 }
